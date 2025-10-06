@@ -5,6 +5,8 @@
 👋 Welcome to my GitHub! I'm an AI Engineer with a strong interest in solving real-world problems in Search and NLP. Currently, I’m focused on building intelligent AI products for enterprises at [Ascentt](https://www.ascentt.com/). 
 Previously, I worked at [Deloitte's AI Center of Excellence Team](https://www.deloitte.com/in/en/about/press-room/deloitte-unveils-global-ai-simulation-centre-of-excellence.html) where I contributed in AI for Cybersecurity usecases. 
 
+👟 Outside of work, I'm a fitness enthusiast, I love calisthenics, trekking, cooking and I'm a beatboxer as well :) 
+
 ---
 
 ## 🤝 Let's Connect!  
