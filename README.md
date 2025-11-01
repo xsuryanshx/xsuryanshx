@@ -2,10 +2,10 @@
 
 **AI-ML Engineer / Data Scientist** 👨‍💻
 
-👋 Welcome to my GitHub! I'm an AI Engineer with a strong interest in solving real-world problems in Search and NLP. Currently, I’m focused on building intelligent AI products for enterprises at [Ascentt](https://www.ascentt.com/). 
-Previously, I worked at [Deloitte's AI Center of Excellence Team](https://www.deloitte.com/in/en/about/press-room/deloitte-unveils-global-ai-simulation-centre-of-excellence.html) where I contributed in AI for Cybersecurity usecases. 
-
-👟 Outside of work, I'm a fitness enthusiast, I love calisthenics, trekking, cooking and I'm a beatboxer as well :) 
+👋 Welcome to my GitHub! I'm an AI Engineer with a strong interest in solving real-world problems in Search and NLP. 
+* Previously, I worked as a Principal AI Engineer at [Ascentt](https://www.ascentt.com/) where I built scalable AI products for enterprises, majorly working around RAG and Search problems. 
+* I also worked as a Data Scientist/ML Engineer at [Deloitte's AI Center of Excellence Team](https://www.deloitte.com/in/en/about/press-room/deloitte-unveils-global-ai-simulation-centre-of-excellence.html) where I built ML models to tackle various cybersecurity usecases.
+* Outside of work, I'm a fitness enthusiast, I love calisthenics, trekking, cooking, music and I'm a beatboxer as well :) 
 
 ---
 
@@ -14,6 +14,7 @@ Previously, I worked at [Deloitte's AI Center of Excellence Team](https://www.de
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Suryansh%20Singh%20Rawat-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/suryansh-singh-rawat)
 [![X](https://img.shields.io/badge/X-Follow%20%40snareyansh-black?style=flat-square&logo=x)](https://x.com/snareyansh)
 [![Email](https://img.shields.io/badge/Email-suryanshsinghrawat%40gmail.com-red?style=flat-square&logo=gmail)](mailto:suryanshsinghrawat@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-View%20Now-blue?style=flat-square&logo=googledrive)](https://drive.google.com/file/d/10r-WergwFNeBtdZlAbVodRn65vY9nzuQ/view?usp=sharing)
 
 ---
 
